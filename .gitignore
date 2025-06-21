@@ -95,3 +95,9 @@ Thumbs.db
 *.bak
 *.cache
 *.db
+# Ignore build output directories
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
