@@ -75,3 +75,23 @@ FileContentIndex/
 # Mac and Linux system files
 .DS_Store
 Thumbs.db
+# Ignore Visual Studio build artifacts
+*.tlog
+*.obj
+*.exe
+*.ilk
+*.log
+*.idb
+*.pdb
+*.sdf
+*.ipch
+*.o
+*.pch
+*.aps
+*.ncb
+*.res
+*.tlh
+*.tli
+*.bak
+*.cache
+*.db
