@@ -30,3 +30,48 @@
 *.exe
 *.out
 *.app
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.aps
+*.pch
+*.ilk
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
+# JSON layouts and config
+DocumentLayout.json
+
+# GitHub Copilot cache
+**/CopilotIndices/
+
+# Index and metadata
+.vscode/
+.vscode/*
+FileContentIndex/
+*.json
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
