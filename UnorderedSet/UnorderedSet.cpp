@@ -17,7 +17,7 @@ int main()
 	cout << endl;
 	cout << "Size: " << uset.size() << endl;
 	//Inserting multiple elements
-	uset.insert({ 23,12,8,33,19 });
+	uset.insert({ 23,12,8,33,19, 30 });
 	for (int x1 : uset)
 	{
 		cout << x1 << " ";
